@@ -21,7 +21,8 @@
     "Header": {
       "NameGuid": "70acaaa4-9dd3-4088-b726-6a82f68d6427",
       "BackgroundPosition": "Stretch"
-    }
+    },
+    "Tabs": []
   },
   "Dependencies": [
     {
@@ -34,6 +35,22 @@
   "ExplorerTreeOrder": [
     {
       "ItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
+    },
+    {
+      "ItemId": "b5c44746-4b3b-4e11-aef2-73fe400d9369",
+      "PreviousItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
+    },
+    {
+      "ItemId": "c94ef2f8-7058-416a-898b-2fbf73493b34",
+      "PreviousItemId": "b5c44746-4b3b-4e11-aef2-73fe400d9369"
+    },
+    {
+      "ItemId": "dd724406-6d6d-406c-a7fa-4d99f19930e6",
+      "PreviousItemId": "c94ef2f8-7058-416a-898b-2fbf73493b34"
+    },
+    {
+      "ItemId": "895da28b-d659-4217-b09b-d08a8f57f1ff",
+      "PreviousItemId": "dd724406-6d6d-406c-a7fa-4d99f19930e6"
     }
   ],
   "IconResourcesKeys": [],
@@ -54,7 +71,7 @@
   "Versions": [
     {
       "Type": "ModuleMetadata",
-      "Number": 6
+      "Number": 8
     },
     {
       "Type": "DomainApi",
